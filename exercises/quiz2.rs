@@ -39,7 +39,7 @@ mod my_module {
                 Command::Uppercase => output.push(string.to_uppercase()),
                 Command::Trim => output.push(string.trim().to_string()),
                 Command::Append(x) => output.push(string.to_owned() + "bar".repeat(*x).as_str()),
-            }
+            };
         }
         output
     }

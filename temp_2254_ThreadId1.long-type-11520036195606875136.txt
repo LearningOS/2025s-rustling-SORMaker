@@ -1,0 +1,2 @@
+Result<Map<std::vec::IntoIter<i32>, {closure@exercises/iterators/iterators3.rs:56:55: 56:58}>, _>
+Result<Map<vec::into_iter::IntoIter<i32>, {closure@exercises/iterators/iterators3.rs:56:55: 56:58}>, _>
